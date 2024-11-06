@@ -12,7 +12,7 @@ the target website. You must make your program generate a QR code that takes som
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
 
-PUT YOUR QR CODE IMAGE
+![QR Code Log](qr_codes/QRCode_20241106030750.png)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
  PUT YOUR LOG IMAGE HERE
@@ -148,3 +148,6 @@ docker logs container_name
 Displays the logs from a running or stopped container.
 
 These commands cover the essentials of building, running, and managing Docker containers and images, along with specific examples for your QR code generation application.
+
+
+[def]: image.png
